@@ -30,7 +30,7 @@ body{
 }
 .header .header-nav .header-container{
     width:1000px ;
-    height: auto;
+    height: 70px;
     display: flex;
     justify-content:flex-start ;
     align-items: center;
