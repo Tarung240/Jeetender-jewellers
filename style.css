@@ -29,7 +29,7 @@ body{
     display: flex;
 }
 .header .header-nav .header-container{
-    width:1200px ;
+    width:1000px ;
     height: auto;
     display: flex;
     justify-content:flex-start ;
