@@ -574,6 +574,139 @@ text-align: center;
     height: 40px;
     right: 5px;
 }
+.section-service{
+    position: relative;
+    width: 1341px;
+    
+}
+.section-service .service-1{
+    position: relative;
+}
+.section-service .service-1 .service-logo{
+    position: relative;
+    width: 1349px;
+    height: 345px;
+    top: 0px;
+    
+}
+.section-service .service-1 .service-logo:hover {
+    opacity: 0.5; /* reduce opacity to 50% on hover */
+    cursor: pointer; /* change cursor to pointer on hover */
+ }
+.section-service .service-1 .service-button{
+    position: absolute;
+    bottom: 60px;
+    left: 20px;
+    color: #030203;
+    width: 150px;
+    height: 30px;
+    font-weight: bolder;
+    font-size: 15px;
+    font-style: italic;
+    background-color:whitesmoke;
+    border-radius: 20px;
+    animation-name:  blink;
+    animation-duration: 1.6s;
+    animation-iteration-count: infinite;
+    font-family: gorditaregular;
+    transition: transform .2s ease-in-out;
+    
+}
+.section-service .service-1 .service-button a{
+    color: black;
+    text-decoration: none;
+}
+.section-service .service-1 .service-button:hover{
+    transform: scale(1.2);
+}
+.section-service2{
+    position: relative;
+    width: 1349px;
+    height: 150px;
+    
+ 
+}
+.section-service2 .service-2 .special{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    top: 5px;
+    width: 400px;
+    left: 440px;
+    
+}
+.section-service2 .service-2 .line{
+    position: relative;
+    width:500px;
+  right:30px;
+}
+
+.section-service2 .service-2 .Upgrading{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    top: 50px;
+    width: 400px;
+    left: 80px;
+    color: blue;
+}
+.section-service2 .service-2 .upgrade{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    top: 50px;
+    width: 400px;
+    left: 30px;
+    font-size: small;
+    
+}
+.section-service2 .service-2 .Redesigning{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    bottom:90px;
+    width: 400px;
+    left: 900px;
+    color:blue;
+}
+.section-service2 .service-2 .redesign{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    bottom:90px;
+    width: 400px;
+    left: 900px;
+    font-size: small;
+    font-family: dancing script;
+    
+}
+.section-service2 .service-2 .Investing{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    bottom:90px;
+    width: 400px;
+    left: 600px;
+    color:blue;
+}
+.section-service2 .service-2 .invest{
+    position: relative;
+    font-family: dancing script;
+    display: flex;
+    bottom:90px;
+    width: 950px;
+    left: 150px;
+    font-size: small;
+    font-family: dancing script;
+}
+ .section-service2 .service-2 .line2{
+position:relative;
+width:100px;
+   left:300px;
+
+}
+
+
 
 
 
